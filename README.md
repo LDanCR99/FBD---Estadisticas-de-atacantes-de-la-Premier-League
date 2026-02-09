@@ -9,6 +9,7 @@ El fútbol es un deporte muy conocido a nivel mundial y una parte fundamental pa
 - Tiros a puerta
 - Partidos jugados
 - Minutos jugados
+
 Lo anterior será analizado con 8 equipos de la misma liga para la temporada 2024-2025: 
 - Manchester United
 - Manchester City
