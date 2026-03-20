@@ -10,11 +10,11 @@ El fútbol es un deporte muy conocido a nivel mundial y una parte fundamental pa
 - Partidos jugados
 - Minutos jugados
 
-Lo anterior será analizado para los atacantes de los 20 equipos de dicha liga; para la temporada 2024-2025.
+Lo anterior será analizado para los atacantes de los 20 equipos de dicha liga, dependiendo de la temporada.
 
 ## Motivación
 Aplicar los conocimientos de la clase de fundamentos de bases de datos para analizar una liga que a mi me gusta bastante.
 
 ## Tech
-- MySQL
+- SQLite
 - Python
